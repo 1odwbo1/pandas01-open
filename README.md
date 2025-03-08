@@ -1,4 +1,4 @@
-# pandas01-opem
+# pandas01-open
 pandas-open方法读写文件
 
 import os
